@@ -1,0 +1,15 @@
+Name: Taha
+Address: 250
+Age: 20
+CGPA: 3
+
+Name: Hammad
+Address: 500
+Age: 23
+CGPA: 3
+
+Name: Ali
+Address: 100
+Age: 19
+CGPA: 2
+
